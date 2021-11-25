@@ -144,7 +144,12 @@ body{
     border-radius: 6px;
 }
 
-
+.form{
+    width: 600px;
+    padding: 50px;
+    margin: 50px;
+    background-color: #dddfe6b8;
+}
 
 /* servicios */
 
